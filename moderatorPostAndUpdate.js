@@ -47,3 +47,4 @@ client.on('messageCreate', async message => {
                could remain there and the bot replies to the reply */
         }
    }
+}
