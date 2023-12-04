@@ -1,5 +1,8 @@
 # discord-projects
 
+May be out of date now as code has not been checked against newer versions of discord.js and the discord api
+
+
 Discord Message Based Scripts 
 
   Collector - This code snippet is an example of a simple collector in discord.js v13
